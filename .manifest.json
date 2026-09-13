@@ -1,0 +1,42 @@
+{
+  "idea": {
+    "title": "Show HN: I made an alternative to the archived filebrowser",
+    "source_url": "https://github.com/skidoodle/filebrowser",
+    "source_platform": "Hacker News Show HN",
+    "description": "Show HN: I made an alternative to the archived filebrowser",
+    "suggested_language": "HTML, CSS, JS"
+  },
+  "spec": {
+    "name": "Show HN: Filebrowser Alternative",
+    "slug": "show-hn-filebrowser-alternative",
+    "language": "HTML, CSS, JS",
+    "description": "Show HN: I made an alternative to the archived filebrowser. This project showcases how to create a modern, lightweight file browser using HTML, CSS, and JavaScript.",
+    "problem": "This project is a fun learning exercise to demonstrate how to build a simple yet functional file browser from scratch.",
+    "files": [
+      {
+        "path": "index.html",
+        "purpose": "Main HTML file"
+      },
+      {
+        "path": "styles.css",
+        "purpose": "CSS for styling"
+      },
+      {
+        "path": "script.js",
+        "purpose": "JavaScript for functionality"
+      }
+    ]
+  },
+  "checks": [
+    {
+      "file": "script.js",
+      "tool": "node --check",
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "engine": "ollama (qwen2.5-coder:3b)",
+  "target_skill": "python",
+  "generated_at": "2026-09-13 09:43:57",
+  "project_dir": "c:\\projects saad\\code cladu poject\\projt gent\\generated\\show-hn-filebrowser-alternative"
+}
